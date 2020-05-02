@@ -1,4 +1,15 @@
-html{
+.yummy{
     background-image : url('https://od.lk/s/MzZfNDAwNjUxMDRf/Ainsley_Harriott.jpg');
     background-size: 200px;
+  }
+
+  .toolbar {
+    height: 60px;
+    padding-left: 20px;
+    margin-bottom: 30px;;
+    display: flex;
+    align-items: center;
+    background-color: #008cffb7;
+    color: white;
+    font-weight: 600;
   }
